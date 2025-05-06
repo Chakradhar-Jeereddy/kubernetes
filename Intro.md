@@ -1,0 +1,4 @@
+- Container orchestration automates the deployment, managment, scalling and networking of containers.
+- Handles
+  - Pod failures
+  - Auto scalling
